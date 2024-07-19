@@ -3,11 +3,11 @@ dasy-can delinates Canadian Census boundaries by populated areas. It aims to be 
 
 ## What's Here
 - Raster
-  - Zipfile containing TIF isolating areas identified as "urban" from Natural Resources Canada's 2020 land cover mapping (https://open.canada.ca/data/en/dataset/ee1580ab-a23d-4f86-a09b-79763677eb47)
-  - Zipfile containing TIF isolating areas identified as "settlement" from Agriculture and Agri-Food Canada's 2020 land use mapping for Canada south of 60N (https://open.canada.ca/data/en/dataset/fa84a70f-03ad-4946-b0f8-a3b481dd5248)
+  - `urban_NRC_2020.zip` - Zipfile containing TIF isolating areas identified as "urban" from Natural Resources Canada's 2020 land cover mapping (https://open.canada.ca/data/en/dataset/ee1580ab-a23d-4f86-a09b-79763677eb47)
+  - `dasy_AAFC_2020.zip` - Zipfile containing TIF isolating areas identified as "settlement" from Agriculture and Agri-Food Canada's 2020 land use mapping for Canada south of 60N (https://open.canada.ca/data/en/dataset/fa84a70f-03ad-4946-b0f8-a3b481dd5248)
 - Vector
-  - Zipfile containing shapefile (.shp) with 2021 Canadian Census boundaries modified to conform to areas identified as "urban" based on Natural Resources Canada's 2020 land cover mapping (https://open.canada.ca/data/en/dataset/ee1580ab-a23d-4f86-a09b-79763677eb47)
-  - Zipfile containing shapefile (.shp) with 2021 Canadian Census boundaries modified to conform to areas identified as "settlement" based on Agriculture and Agri-Food Canada's 2020 land use mapping for Canada south of 60N (https://open.canada.ca/data/en/dataset/fa84a70f-03ad-4946-b0f8-a3b481dd5248)
+  - `dasy_NRC_2020_shp.zip` - Zipfile containing shapefile (.shp) with 2021 Canadian Census boundaries modified to conform to areas identified as "urban" based on Natural Resources Canada's 2020 land cover mapping (https://open.canada.ca/data/en/dataset/ee1580ab-a23d-4f86-a09b-79763677eb47)
+  - `dasy_AAFC_2020_shp.zip` - Zipfile containing shapefile (.shp) with 2021 Canadian Census boundaries modified to conform to areas identified as "settlement" based on Agriculture and Agri-Food Canada's 2020 land use mapping for Canada south of 60N (https://open.canada.ca/data/en/dataset/fa84a70f-03ad-4946-b0f8-a3b481dd5248)
 
 ## What It Looks Like
 TBD (screenshots)
